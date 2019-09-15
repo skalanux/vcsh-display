@@ -358,6 +358,11 @@
 !/.icons/Numix-Cursor/cursors/zoom-out
 !/.icons/Numix-Cursor/cursor.theme
 !/.icons/Numix-Cursor/index.theme
+!/.local
+!/.local/share
+!/.local/share/assets
+!/.local/share/assets/logo-menu.png
+!/.local/share/assets/logo-menu.svg
 !/.themes
 !/.themes/Nordic
 !/.themes/Nordic/assets
