@@ -100,10 +100,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.084945"
-     inkscape:cx="-15.346359"
-     inkscape:cy="4.8596645"
+     inkscape:cx="3.7484503"
+     inkscape:cy="11.917545"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="g56"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1000"
@@ -160,13 +160,6 @@
      id="layer7"
      inkscape:label="Layer#1"
      style="display:inline">
-    <circle
-       r="2.8457203"
-       cy="-13.581484"
-       cx="-10.175619"
-       transform="rotate(171.84156)"
-       id="path7172"
-       style="display:inline;fill:none;stroke:none;stroke-width:0.09485734" />
     <g
        transform="matrix(0.21075608,0,0,-0.21075608,-14.685655,59.540116)"
        id="g12">
@@ -184,13 +177,7 @@
                id="g30">
               <g
                  transform="translate(136.7227,275.792)"
-                 id="g32">
-                <path
-                   inkscape:connector-curvature="0"
-                   d="M 0,0 -32.348,-32.557 H -64.055 L -31.627,0 Z"
-                   style="fill:#00abe0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   id="path34" />
-              </g>
+                 id="g32" />
             </g>
           </g>
         </g>
@@ -198,57 +185,26 @@
     </g>
     <g
        id="g36"
-       transform="matrix(0.21075608,0,0,-0.21075608,9.919305,21.999138)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 0,0 31.604,32.556 h 31.71 L 30.885,0 Z"
-         style="fill:#f7d755;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path38" />
-    </g>
+       transform="matrix(0.21075608,0,0,-0.21075608,9.919305,21.999138)" />
     <g
        id="g40"
-       transform="matrix(0.21075608,0,0,-0.21075608,7.46391,21.999138)">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 0,0 -32.555,32.556 V 65.11 L 0,97.667 Z"
-         style="fill:#2074af;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path42" />
-    </g>
+       transform="matrix(0.21075608,0,0,-0.21075608,7.46391,21.999138)" />
     <g
        id="g44"
-       transform="matrix(0.21075608,0,0,-0.21075608,7.46391,21.999138)">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 0,0 -32.428,32.556 H 37.545 L 5.119,0 Z"
-         style="fill:#634c96;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path46" />
-    </g>
+       transform="matrix(0.21075608,0,0,-0.21075608,7.46391,21.999138)" />
     <g
        id="g48"
-       transform="matrix(0.21075608,0,0,-0.21075608,16.428471,1.4152175)">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 0,0 32.557,-32.557 V -65.111 L 0,-97.667 Z"
-         style="fill:#f58566;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path50" />
-    </g>
+       transform="matrix(0.21075608,0,0,-0.21075608,16.428471,1.4152175)" />
     <g
        id="g52"
-       transform="matrix(0.21075608,0,0,-0.21075608,16.428471,1.4152175)">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 0,0 32.43,-32.557 H -37.545 L -5.117,0 Z"
-         style="fill:#ee374f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path54" />
-    </g>
+       transform="matrix(0.21075608,0,0,-0.21075608,16.428471,1.4152175)" />
     <g
        id="g56"
-       transform="matrix(0.21075608,0,0,-0.21075608,8.515626,8.2767235)">
+       transform="matrix(0.21075608,0,0,-0.21075608,8.515626,8.276723)">
       <path
-         inkscape:connector-curvature="0"
-         d="M 0,0 32.555,32.557 V -32.555 L 0,-65.11 Z"
-         style="fill:#bd3480;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path58" />
+         id="path58"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 0,0 32.555,32.557 V -32.555 L 0,-65.11 Z m 37.545038,32.556619 32.43,-32.55699951837 H 3.7846595e-5 L 32.428038,32.556619 Z m 0,0 32.557,-32.55699951837 V -32.554381 l -32.557,-32.556 z m -42.5352428,-97.66703 -32.4280002,32.556 h 69.973 l -32.42599979,-32.556 z m 0,0 -32.5550002,32.556 V -4.1104959e-4 L -4.9902048,32.556589 Z m 11.6504112,0 31.6039996,32.556 h 31.71 l -32.429,-32.556 z M 26.636761,32.556346 -5.7112392,-6.542217e-4 H -37.418239 L -4.9902392,32.556346 Z M 3.1669377,-19.582428 A 13.502435,13.502435 0 0 0 14.616577,-4.3005029 13.502435,13.502435 0 0 0 29.898501,-15.750141 13.502435,13.502435 0 0 0 18.448863,-31.032066 13.502435,13.502435 0 0 0 3.1669377,-19.582428 Z" />
     </g>
   </g>
   <g
